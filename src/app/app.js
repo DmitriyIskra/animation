@@ -6,4 +6,4 @@ const pattern = new Pattern();
 const drawUI = new DrawUI('.container', pattern);
 
 const control = new Control(drawUI);
-control.init();
+control.init(); 
